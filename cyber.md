@@ -558,7 +558,7 @@ style: |
 </td>
 <td width="60%">
 
-<img src="./assets/fake-news-celular.jpeg" style="width:100%;height:1000px;object-fit:cover;border-radius:12px;">
+<img src="./assets/fake-news-celular.jpeg" style="width:100%;object-fit:cover;border-radius:12px;">
 
 </td>
 </tr>
@@ -584,7 +584,7 @@ style: |
 </td>
 <td width="50%">
 
-<img src="./assets/desinformation.jpeg" style="width:100%;height:1000px;object-fit:cover;border-radius:12px;">
+<img src="./assets/desinformation.jpeg" style="width:100%;object-fit:cover;border-radius:12px;">
 
 </td>
 </tr>
