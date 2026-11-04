@@ -799,7 +799,8 @@ style: |
 - Notícias e anúncios fraudulentos;
 - Falsas promoções e oportunidades;
 - Links maliciosos disfarçados de notícias.
-- 
+
+
 </td>
 </tr>
 </table>
@@ -840,35 +841,27 @@ style: |
 
 ---
 
-<!-- _class: divider -->
-
-
----
-
 <!-- _class: closing -->
 
-# Zed
-## Velocidade é uma feature.
+# Cyber
+## No combate à desinformação
 
 <div style="margin-top:1.6em;display:flex;gap:10px;justify-content:center;flex-wrap:wrap">
-  <span class="tag">zed.dev</span>
-  <span class="tag green">github.com/zed-industries/zed</span>
+  <span class="tag">IFCE Campus Itapipoca</span>
+  <span class="tag green">Bytes para Cidadania</span>
 </div>
 
 ---
-
-<br>
 
 ## Fontes
 
 <br>
 
-- <a href="zed.dev/blog/zed-is-1-0">Artigo: "Zed is 1.0"</a>
-- <a href="zed.dev/blog/zed-is-our-office">Artigo: "Zed Is Our Office"</a>
-- <a href="zed.dev/blog/videogame">Artigo de como o Zed construiu o GPUI: "Leveraging Rust and the GPU to render user interfaces at 120 FPS""</a>
-- <a href="github.com/zed-industries/zed/tree/main/crates/gpui">Repositório Técnico do GPUI: Zed GitHub Repository</a>
-- <a href="learnopengl.com/Getting-started/Hello-Triangle"> Artigo Técnico Prático sobre rendenização de baixo nível: "LearnOpenGL: Graphics Pipeline" de Joey de Vries</a>
-- <a href="zed.dev/blog/why-the-big-rewrite">Artigo de Engenharia: "Why the big rewrite?"</a>
+- <a href="./">Documento: "PROJETO DE CURRICULARIZAÇÃO DA EXTENSÃO
+“Bytes para Cidadania”"</a>
+- <a href="https://www.educamaisbrasil.com.br/educacao/dicas/o-que-sao-fake-news"> O QUE são fake news? Educa Mais Brasil, [S. l.], 2019. Dicas de Educação. Disponível em: https://www.educamaisbrasil.com.br/educacao/dicas/o-que-sao-fake-news. Acesso em: 16 set. 2026.</a>
+- <a href="https://doi.org/10.1590/SciELOPreprints.3294"> FORSTER, Renê et al. Fake News: O que é, como se faz e por que funciona? SciELO Preprints, 7 dez. 2021. DOI: https://doi.org/10.1590/SciELOPreprints.3294. Acesso em: 19 set. 2026. </a>
+- <a href="https://rm.coe.int/information-disorder-toward-an-interdisciplinary-framework-for-researc/1680762703"> WARDLE, Claire; DERAKHSHAN, Hossein. Information Disorder: Toward an interdisciplinary framework for research and policymaking. Strasbourg: Council of Europe, 2017. Disponível em: https://rm.coe.int/information-disorder-toward-an-interdisciplinary-framework-for-researc/1680762703. Acesso em: 20 set. 2026. </a>
 
 
 --- 
@@ -877,8 +870,8 @@ style: |
 
 <br>
 
-- <a href="tree-sitter.github.io/tree-sitter">Repositório oficial do Tree-sitter</a>
-- <a href="github.com/zed-industries/zed">Repositório do código fonte do Zed</a>
-- <a href="doc.rust-lang.org/book/ch04-00-understanding-ownership.html">Capítulo de Ownership: "The Rust Programming Language"</a>
-- <a href="rust-unofficial.github.io/patterns/">Padrões de design de sistemas em Rust</a>
-- <a href="zed.dev/docs/installation"> Página oficial de instalação do Zed</a>
+- <a href="https://www.estadao.com.br/estadao-verifica/drauzio-varella-remedio-diabetes-ia/"> MARSCHALL, Luciana. É falso que Drauzio Varella tenha indicado remédio que promete curar diabetes. Disponível em: <https://www.estadao.com.br/estadao-verifica/drauzio-varella-remedio-diabetes-ia/>. Acesso em: 3 nov.. 2026. </a>
+- <a href="https://cartilha.cert.br/">CERT.br. Cartilha de Segurança para Internet.</a>
+- <a href="#">BRASIL. Ministério da Justiça e Segurança Pública. Prevenção contra golpes na internet.</a>
+- <a href="#">POLÍCIA FEDERAL. Cartilhas de Segurança da Informação.</a>
+- <a href="#">GABINETE DE SEGURANÇA INSTITUCIONAL. Materiais Educativos em Cibersegurança.</a>
