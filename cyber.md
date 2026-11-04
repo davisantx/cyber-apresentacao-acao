@@ -3,6 +3,7 @@ marp: true
 theme: gaia
 class: invert
 paginate: true
+html: true
 style: |
   @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@300;400;500&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap');
 
@@ -598,7 +599,7 @@ style: |
 
 <table class="cols">
 <tr>
-<td width="35%">
+<td width="45%">
 
 - Uso de IA para manipular rostos e vozes (Deepfake).
 - Simulação de recomendações de pessoas famosas.
@@ -609,9 +610,9 @@ style: |
 <br>
 
 </td>
-<td width="65%">
+<td width="55%">
 
-<img src="./assets/drauzio.jpeg" style="width:100%;object-fit:cover;height:520px;border-radius:12px;">
+<img src="./assets/drauzio.jpeg" style="width:100%;object-fit:cover;height:400px;border-radius:12px;">
     
 <p class="caption">
   Captura utilizada pelo Estadão Verifica em uma checagem de outro vídeo falso envolvendo Drauzio Varella. A imagem mostra a alegação falsa de cura do diabetes.
@@ -620,8 +621,6 @@ style: |
 </td>
 </tr>
 </table>
-
-
 
 ---
 
@@ -649,7 +648,6 @@ style: |
 </tr>
 </table>
 
-
 ---
 
 <!-- _class: divider -->
@@ -659,6 +657,69 @@ style: |
 ## Identificar informações falsas
 
 <p style="max-width:520px;color:#A09EC0;margin-top:0.4em"></p>
+
+---
+
+## Como identificar e investigar?
+
+<table class="cols">
+<tr>
+<td width="50%">
+
+### Hierarquia de fontes
+  - Priorizar fontes originais e oficiais.
+  - Conferir a origem da informação.
+  - Exemplos: editais, comunicados e portais oficiais.
+
+
+<br>
+
+</td>
+<td width="50%">
+
+### Leitura lateral
+- Sair da publicação suspeita.
+- Pesquisar em outras fontes.
+- Comparar informações antes de acreditar.
+- Sinais de alerta (Red Flags)
+- Links suspeitos.
+- Ausência de datas ou comprovações.
+- Apelos como "compartilhe agora!".
+
+</td>
+</tr>
+</table>
+
+---
+
+## Combate e prevenção
+
+<table class="cols">
+<tr>
+<td width="50%">
+
+### Debunking — Corrigir
+- Desmentir informações falsas com evidências.
+- Apresentar o fato correto.
+- Explicar o erro e indicar fontes confiáveis.
+
+
+<br>
+
+</td>
+<td width="50%">
+
+### Prebunking — Prevenir
+- Reconhecer estratégias de manipulação.
+- Desenvolver pensamento crítico.
+- Criar o hábito de verificar informações.
+
+</td>
+</tr>
+</table>
+
+
+
 
 ---
 
@@ -690,6 +751,11 @@ style: |
 ## Golpes Virtuais
 
 <p style="max-width:520px;color:#A09EC0;margin-top:0.4em"></p>
+
+---
+
+<!-- _class: divider -->
+
 
 ---
 
