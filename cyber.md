@@ -772,30 +772,60 @@ Se uma informação parece verdadeira, tem milhares de curtidas e foi compartilh
 
 ---
 
+<table class="cols">
+<tr>
+<td width="50%">
+
 ## Psicologia Cognitiva e Social da Desinformação
 
-- Como pensamos e reagimos às informações.
-- Influência das emoções nas decisões.
-- Comportamento coletivo e disseminação de boatos.
+- Emoções e tomada de decisões.
+- Influência social no compartilhamento de informações.
 
---- 
-## Sistema 1 vs. Sistema 2
+<br>
 
-- Sistema 1: rápido, automático e emocional.
-- Sistema 2: lento, racional e analítico.
-- Fake news exploram reações impulsivas.
-- Frase de destaque: "Minha cabeça disparou antes de eu terminar de ler."
+</td>
+<td width="50%">
+
+## Sistema 1 e Sistema 2
+
+- Daniel Kahneman — Dois sistemas de pensamento
+- Sistema 1: rápido, automático e impulsivo.
+- Sistema 2: lento, analítico e racional.
+- Fake news exploram reações imediatas.
+- Compartilhamento sem verificação.
+- Exemplo: mensagem falsa sobre o bloqueio do WhatsApp.
+
+</td>
+</tr>
+</table>
 
 ---
 
+<table class="cols">
+<tr>
+<td width="50%">
+
 ## Sequestro Emocional
 
-- Medo e ansiedade.
-- Sensação de urgência.
-- Decisões precipitadas.
-- Manipulação emocional.
-- Exemplo no jogo: André teme perder uma oportunidade importante por acreditar em um boato.
+- Uso de emoções para influenciar decisões.
+- Medo, ansiedade e urgência.
+- Redução da capacidade de análise.
+- Reações impulsivas diante de situações de pressão.
+- Exemplo: falso pedido de dinheiro após suposto acidente.
 
+</td>
+<td width="50%">
+
+## Psicologia Social do Boato
+
+- Três processos de transformação dos boatos:
+- Nivelamento: perda de detalhes.
+- Acentuação: exagero de informações.
+- Assimilação: adaptação às crenças pessoais.
+
+</td>
+</tr>
+</table>
 
 ---
 
