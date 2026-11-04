@@ -809,6 +809,37 @@ Se uma informação parece verdadeira, tem milhares de curtidas e foi compartilh
 
 ---
 
+<table class="cols">
+<tr>
+<td width="50%">
+
+## Equilíbrio no uso da tecnologia
+
+- Gerenciar o tempo de tela e o consumo de informações.
+- Utilizar a tecnologia de maneira consciente e saudável.
+
+<br>
+
+</td>
+<td width="50%">
+
+## Doomscrolling
+
+- Consumo compulsivo de notícias e conteúdos motivado pela ansiedade.
+- Pode aumentar o estresse, prejudicar o sono e comprometer a atenção e a memória.
+
+</td>
+</tr>
+</table>
+
+## Autocuidado e colaboração
+
+- Reconhecer os próprios limites no ambiente digital.
+- Equilibrar participação online, descanso e responsabilidades compartilhadas.
+
+
+---
+
 <!-- _class: divider -->
 
 <div class="label">02 — Conteúdo</div>
