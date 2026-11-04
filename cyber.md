@@ -570,6 +570,12 @@ style: |
 
 <p style="max-width:520px;color:#A09EC0;margin-top:0.4em"></p>
 
+
+---
+
+<img style="margin: auto;" src="./assets/cha-anuncio.jpeg" height="100%">
+<img src="./assets/cara-assustada.jpeg" height="100%">
+
 ---
 
 ## O fenômeno das <i>Fake News</i>
@@ -679,6 +685,12 @@ style: |
 
 ---
 
+## Pergunta:
+
+Se uma informação parece verdadeira, tem milhares de curtidas e foi compartilhada por pessoas em quem confiamos, isso significa que podemos acreditar nela?
+
+---
+
 <!-- _class: divider -->
 
 <div class="label">02 — Conteúdo</div>
@@ -757,6 +769,33 @@ style: |
 ## acreditamos em fake-news?
 
 <p style="max-width:520px;color:#A09EC0;margin-top:0.4em"></p>
+
+---
+
+## Psicologia Cognitiva e Social da Desinformação
+
+- Como pensamos e reagimos às informações.
+- Influência das emoções nas decisões.
+- Comportamento coletivo e disseminação de boatos.
+
+--- 
+## Sistema 1 vs. Sistema 2
+
+- Sistema 1: rápido, automático e emocional.
+- Sistema 2: lento, racional e analítico.
+- Fake news exploram reações impulsivas.
+- Frase de destaque: "Minha cabeça disparou antes de eu terminar de ler."
+
+---
+
+## Sequestro Emocional
+
+- Medo e ansiedade.
+- Sensação de urgência.
+- Decisões precipitadas.
+- Manipulação emocional.
+- Exemplo no jogo: André teme perder uma oportunidade importante por acreditar em um boato.
+
 
 ---
 
