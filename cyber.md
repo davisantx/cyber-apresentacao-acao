@@ -556,7 +556,7 @@ style: |
 
 ### Para além do domínio dos recursos tecnológicos:
 
-- A Cidadania Digital não depende apenas do acesso e do domínio tecnológico, mas também a compreensão dos mecanismos, algoritmos e formas de interação existentes no ciberespaço.
+- A Cidadania Digital não depende apenas do acesso e do domínio tecnológico, mas também da compreensão dos mecanismos, algoritmos e formas de interação existentes no ciberespaço.
 
 - Letramento midiático e informacional: possuir meios de encontrar, organizar, avaliar e analisar as informações e conteúdos de mídias consumidos, exercendo postura crítica diante deles;
 
