@@ -491,8 +491,6 @@ style: |
 
 <!-- _class: hero -->
 
-
-
 # Cyber
 <h2> Educação contra a desinformação</h2>
 
@@ -522,6 +520,24 @@ style: |
 
 ---
 
+## Curso
+
+- Discentes do curso de Tecnologia em Analise e Desenvolvimento de Sistemas do IFCE Campus Itapipoca.
+
+<br>
+
+## Projeto
+
+- Bytes para Cidadania: Projeto que engloba 4 ações de extensão visando a **promoção da Cidadania Digital nas escolas**.
+
+<br>
+
+## Nossa ação
+
+- Ação de extensão Cyber: Trabalha o assunto de **<i>Fake-news</i> e desinformação** nas escolas. 
+
+---
+
 <!-- _class: divider -->
 
 <div class="label">01 — Contextualização</div>
@@ -529,6 +545,20 @@ style: |
 ## O que é Cidadania Digital?
 
 <p style="max-width:520px;color:#A09EC0;margin-top:0.4em"></p>
+
+---
+
+## O que é?
+
+- Cidadania Digital pode ser entendido como a capacidade de um indivíduo de participar da sociedade por meio de recursos online, abrangendo tanto o acesso aos dispositivos e meios necessários quanto às habilidades sociocomportamentais requeridas (SILVEIRA, 2010).
+
+<br>
+
+### Para além do domínio dos recursos tecnológicos:
+
+- A Cidadania Digital não depende apenas do acesso e do domínio tecnológico, mas também a compreensão dos mecanismos, algoritmos e formas de interação existentes no ciberespaço.
+
+- Letramento midiático e informacional: possuir meios de encontrar, organizar, avaliar e analisar as informações e conteúdos de mídias consumidos, exercendo postura crítica diante deles;
 
 ---
 
@@ -595,7 +625,6 @@ style: |
 ---
 
 ## IA Generativa e Fake News
-
 
 <table class="cols">
 <tr>
@@ -717,9 +746,6 @@ style: |
 </td>
 </tr>
 </table>
-
-
-
 
 ---
 
