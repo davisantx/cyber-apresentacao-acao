@@ -780,6 +780,66 @@ style: |
 
 ---
 
+<table class="cols">
+<tr>
+<td width="50%">
+
+## O que são golpes virtuais?
+- Fraudes no ambiente digital;
+- Manipulação e engano;
+- Roubo de dados e dinheiro.
+
+<br>
+
+</td>
+<td width="50%">
+
+## Relação entre Fake News e golpes virtuais
+- Disseminação de informações falsas;
+- Notícias e anúncios fraudulentos;
+- Falsas promoções e oportunidades;
+- Links maliciosos disfarçados de notícias.
+- 
+</td>
+</tr>
+</table>
+
+---
+
+<table class="cols">
+<tr>
+<td width="50%">
+
+## Principais tipos de golpes
+- Phishing;
+- Falsas ofertas e promoções;
+- Golpes envolvendo Pix;
+- Perfis e páginas falsas;
+- Falsos comunicados institucionais.
+
+<br>
+
+</td>
+<td width="50%">
+
+
+## Estratégias utilizadas pelos criminosos
+- Engenharia social;
+- Manipulação emocional;
+- Sensacionalismo e urgência;
+- Uso da confiança e da desinformação.
+
+</td>
+</tr>
+</table>
+
+
+---
+
+<img src="./assets/golpe-falsa-encomenda.jpeg" style="width:100%;object-fit:cover;height:700px;border-radius:12px;">
+
+---
+
 <!-- _class: divider -->
 
 
