@@ -759,9 +759,8 @@ Se uma informação parece verdadeira, tem milhares de curtidas e foi compartilh
 </tr>
 </table>
 
----
 
-<!-- _class: divider -->
+<!-- _class: divider
 
 <div class="label">02 — Conteúdo</div>
 
@@ -827,9 +826,9 @@ Se uma informação parece verdadeira, tem milhares de curtidas e foi compartilh
 </tr>
 </table>
 
----
+--- -->
 
-<!-- _class: divider -->
+<!-- _class: divider
 
 <div class="label">02 — Conteúdo</div>
 
@@ -868,9 +867,9 @@ Se uma informação parece verdadeira, tem milhares de curtidas e foi compartilh
 - Equilibrar participação online, descanso e responsabilidades compartilhadas.
 
 
----
+--- -->
 
-<!-- _class: divider -->
+<!-- _class: divider
 
 <div class="label">02 — Conteúdo</div>
 
@@ -938,6 +937,7 @@ Se uma informação parece verdadeira, tem milhares de curtidas e foi compartilh
 ---
 
 <img src="./assets/golpe-falsa-encomenda.jpeg" style="width:100%;object-fit:cover;height:700px;border-radius:12px;">
+-->
 
 ---
 
