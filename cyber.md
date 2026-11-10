@@ -562,6 +562,27 @@ style: |
 
 ---
 
+## Inteligência digital
+
+<p style="font-size: 25px !important"> O Digital Inteliggence Framework (DK Framework) do Institute of Electrical and Electronics Engineers (IEEE), elenca 8 competências para Cidadania Digital: </p>
+
+- Identidade do cidadão;
+- Equilíbrio no uso da tecnologia;
+- Gestão de riscos cibernéticos comportamentais;
+- Gestão de segurança cibernética pessoal;
+- Empatia digital;
+- Gestão de pegada digital;
+- Gestão de privacidade;
+- **Letramento midiático e informacional: possuir meios de encontrar, organizar, avaliar e analisar as informações e conteúdos de mídias consumidos, exercendo postura crítica diante deles**.
+
+---
+
+## Conclusão
+
+Cidadania Digital pode ser entendida como a capacidade de usar a tecnologia e as mídias digitais de forma **segura**, **responsável** e **ética**.
+
+---
+
 <!-- _class: divider -->
 
 <div class="label">02 — Conteúdo</div>
